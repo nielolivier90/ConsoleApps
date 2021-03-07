@@ -1,0 +1,13 @@
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.exe
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.deps.json
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.runtimeconfig.json
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.runtimeconfig.dev.json
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.dll
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\bin\Debug\netcoreapp3.1\ConwayGame.pdb
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.csprojAssemblyReference.cache
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.AssemblyInfoInputs.cache
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.AssemblyInfo.cs
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.csproj.CoreCompileInputs.cache
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.dll
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.pdb
+C:\Users\Niel\source\repos\ConsoleApp2\ConwayGame\obj\Debug\netcoreapp3.1\ConwayGame.genruntimeconfig.cache
