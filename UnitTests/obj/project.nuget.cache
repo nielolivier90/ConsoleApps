@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQpzniZCRQqvTDCADLpWiSwmQY0hT5PScmdAPgiHaiwB55ABKg7fTpmsPXSgs8M9+cYqfrsD4F9IT7aG+3X2tg==",
+  "dgSpecHash": "fRs0uSi+6AHwtlJTmbuCOlkD6lUO5FoiqSaTXx8xPVxuQoYNaglmNREf8WIxLPCAA1r2pTpmLexsaV2IdV0h+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\SortingUnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Niel\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Niel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

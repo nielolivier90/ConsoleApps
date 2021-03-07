@@ -4661,11 +4661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\SortingUnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\SortingUnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Niel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\SortingUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Niel\\source\\repos\\ConsoleApps\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
