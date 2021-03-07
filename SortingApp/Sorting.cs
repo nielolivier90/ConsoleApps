@@ -26,7 +26,7 @@ namespace SortingApp
             {
                 var value = char.ToUpper(chars[i]) - 64;
                 //Check if we can place at the end
-                if (value > max)
+                if (value >= max)
                 {
                     max = value;
                     result.Add(new Tuple<int, char>(value, chars[i]));
